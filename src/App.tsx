@@ -1,4 +1,3 @@
-import * as React from 'react'
 
 import './App.css'
 
@@ -19,7 +18,7 @@ function App() {
 
   return (
     <>
-      <button type="Button" style={myStyle} >
+      <button type="button" style={myStyle} >
         Click me
       </button>
 
